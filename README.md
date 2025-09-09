@@ -99,22 +99,6 @@ Git • GitHub • VS Code • AWS • JMeter • TestRail
   <img src="https://github-profile-trophy.vercel.app/?username=BarriosCristian&theme=radical&no-bg=true&no-frame=true&row=1&column=5&title=Commits,Repositories,Stars,Followers,PullRequest">
 </div>
 
----
-
-## 📊 Estadísticas de GitHub  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BarriosCristian&show_icons=true&theme=radical&border_color=7F3FBF&bg_color=0D1117&title_color=7F3FBF&text_color=FFFFFF&icon_color=7F3FBF" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=BarriosCristian&theme=radical&border=7F3FBF&background=0D1117&ring=7F3FBF&fire=7F3FBF&currStreakNum=FFFFFF&currStreakLabel=7F3FBF" height="165"/>
-</div>
-
----
-
-## 📈 Actividad  
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BarriosCristian&custom_title=Cristian's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=7F3FBF&area=true" alt="Gráfico de actividad"/>
-</div>
 
 ---
 
