@@ -89,19 +89,6 @@ Git • GitHub • VS Code • AWS • JMeter • TestRail
 
 ---
 
-## 🏆 Logros y Estadísticas  
-
-<p align="center">
-  <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px"/>
-</p>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BarriosCristian&theme=radical&no-bg=true&no-frame=true&row=1&column=5&title=Commits,Repositories,Stars,Followers,PullRequest">
-</div>
-
-
----
-
 ## ⭐ Habilidades Destacadas  
 
 🧪 **Testing Automation:** Selenium (Java & C#), Cypress, TestNG, Cucumber (BDD)  
