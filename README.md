@@ -46,7 +46,7 @@ Ofrezco pasión, compromiso, dedicación y muchas ganas de aprender y aportar �
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">  
+<img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
 ### 🔭 Actualmente  
 - QA Freelance en **uTest**  
