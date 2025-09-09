@@ -60,7 +60,7 @@ Ofrezco pasión, compromiso, dedicación y muchas ganas de aprender y aportar �
 
 ## 🌐 Conecta conmigo  
 <p align="center"> 
-  <a href="https://linkedin.com/in/cristian-barrios" target="blank">
+  <a href="https://www.linkedin.com/in/cristian-barrios-9933b51a9/ target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
   <a href="mailto:cristianbarriosrodrigues@gmail.com" target="blank">
